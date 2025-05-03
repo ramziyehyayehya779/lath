@@ -93,7 +93,7 @@
 },
 {
     "domain": "seu-clg.com",
-    "expirationDate": 1746403900.657334,
+    "expirationDate": 1746403900,
     "hostOnly": true,
     "httpOnly": true,
     "name": "_lscache_vary",
